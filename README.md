@@ -37,5 +37,5 @@ The following table of contents provides the plan for the analysis and spanned a
 
 ## Deliverables
 
-Analysis file: assignment_11_1_used_car_price_prediction-venkata.ipynb
+Analysis file: assignment_11_1_used_car_price_prediction-venkata.ipynb <br>
 Assets: 'data' and 'image' folders
