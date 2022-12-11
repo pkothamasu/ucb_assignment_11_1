@@ -1,4 +1,4 @@
-# Practical Assignment 2: Module 11
+# Practical Assignment 2: Module 11 - Used Car Price Prediction
 What drives the price of a car?
 
 ## Business Understanding
@@ -6,6 +6,7 @@ What drives the price of a car?
 The CRISP-DM process starts with the understanding of the business problem. The purpose of this assignment is to understand data, visualize carefully, model using various regressor algorithms and evaluate which model would be best for the prediction of used car prices for deployment.  
 
 Imagine for example a used car dealer who needs estimates what the price of a used car could be. The car dealer could be interest in predicting the price of a car based on its attributes. In this project we try to answer to the following 3 business questions:
+
 1. What are the top two best model recommendation for the dealers for predictiong used car price after evaluating different models? <br>
 2. Discuss the factors of evaluated scores for car price prediction? <br>
 3. What are the suggestions for fine tuning the top best models for car price predictions close to the actual price? <br>
