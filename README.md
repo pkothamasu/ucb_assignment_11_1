@@ -14,23 +14,23 @@ The following table of contents provides the plan for the analysis.  This plan i
 
 <a id="head"></a>
 ### Table of Contents 
-1. [Import necessary libraries](#1)<br><br>
-2. [Read dataset and first glance](#2)<br><br>
+1. [Import necessary libraries](#1)<br>
+2. [Read dataset and first glance](#2)<br>
 3. [Data Cleaning](#3)
   - [Outliers](#3.1)
   - [Uncorrelated columns](#3.2)
   - [Filling null values](#3.3)
   - [Remove samples based on common sense](#3.4)
-  - [Remove insufficient records](#3.5)<br><br>
-4. [Data Visualization](#4)<br><br>
+  - [Remove insufficient records](#3.5)<br>
+4. [Data Visualization](#4)<br>
 5. [Model Preparation](#5)
   - [Encoding categorical features](#5.1)
   - [Normalization](#5.2)
-  - [Split training and testing set](#5.3)<br><br>
+  - [Split training and testing set](#5.3)<br>
 6. [Models and tuning](#6)
   - [Linear regression](#6.1)
   - [Lasso regression](#6.2)
   - [Ridge Regression](#6.3)
   - [Ridge Regression using GridSearchCV](#6.4)
-  - [K-NearestNeighbor](#6.5)<br><br>
-7. [Evaluate by model comparison using R2 score and RMSE values](#7)<br><br>
+  - [K-NearestNeighbor](#6.5)<br>
+7. [Evaluate by model comparison using R2 score and RMSE values](#7)<br>
